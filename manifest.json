@@ -1,7 +1,7 @@
 {
     "name": "EmployeesOfTheWeek",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/nyooNyoo/LC_EmployeesOfTheWeek",
+    "version_number": "1.0.1",
+    "website_url": "https://thunderstore.io/c/lethal-company/p/nyoo/EmployeesOfTheWeek/",
     "description": "QOL Modpack for Thunderstore with extra goodies!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
@@ -23,7 +23,7 @@
         "Suskitech-AlwaysHearActiveWalkies-1.4.2",
         "5Bit-VoiceHUD-1.0.4",
         "Sligili-HDLethalCompany-1.5.5",
-        "x753-Mimics-2.1.0",
+        "x753-Mimics-2.2.0",
         "BlueAmulet-LCBetterClock-1.0.3",
         "NutNutty-SellTracker-1.0.0",
         "Monkeytype-HideChat-1.0.0",
@@ -34,7 +34,7 @@
         "FyreBytes-TerminalColors-1.0.2",
         "notnotnotswipez-MoreCompany-1.7.2",
         "FlipMods-LetMeLookDown-1.0.1",
-        "SirTyler-BetterTeleporter-1.1.1",
+        "SirTyler-BetterTeleporter-1.2.0",
         "taffyko-NameplateTweaks-1.0.2",
         "Nebulaetrix-ScanFix-1.0.3",
         "NotAtomicBomb-TerminalApi-1.4.0",
